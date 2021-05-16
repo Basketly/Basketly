@@ -1,5 +1,5 @@
 # Basketly 🧺
-## What is Basketly
+## What is Basketly?
 Basketly is a file backup system that lets you backup your files on your friends' computers and vice-versa.  It takes advantage of extra disk space you might have that is not very useful for backing up files on the same disk.  All files are encrypted so nobody can see your files besides you.
 
 **Can other peers view my files?** 
@@ -11,18 +11,19 @@ Basketly is a file backup system that lets you backup your files on your friends
 **Is Basketly free?**
 > Basktely is free for non-commercial use.
 
-# Getting Started
+## Getting Started
 Basketly is in very early stages and currently runs on Windows and Linux.
 1. Download latest executable from release page
 1. Setup simple playground with `$ bkt --playground 2`
 1. See help for more info and commands `$ bkt --help`
 
 
-# Roadmap
+## Roadmap
 Roughly ordered highest prio first
 1. Global peer discovery
 1. GUI
 1. Mac support
 1. Versioning
-1. 
+1. STUN
+1.
 
